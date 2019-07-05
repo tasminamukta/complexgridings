@@ -1,0 +1,15 @@
+.header,.hero,.body,.footer{
+	background-color: orange;
+	margin-bottom: 10px;
+}
+
+.bg{
+	background-color: lime;
+	min-height: 40px;
+	border: 1px solid black;
+}
+.red{
+	background-color: red;
+	min-height: 40px;
+	border: 1px solid black;
+}
